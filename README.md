@@ -1,7 +1,7 @@
 # 📝 To-Do List Web Application
 
-## Internship Task – Task 3  
-This project is developed as **Task-3 of the Internship offered by SkillCraft Technologies**.
+## Internship Task – Task 4  
+This project is developed as **Task-4 of the Internship offered by SkillCraft Technologies**.
 
 
 ## 🚀 Features
